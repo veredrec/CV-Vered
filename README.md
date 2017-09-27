@@ -1,9 +1,9 @@
 # **Vered Rekanati Mordechai**
 
-### 6181 St. Nazareth, Israel
-### :telephone_receiver: +972-55-669-2604  :envelope: veredrec@gmail.com
+##### 6181 St. Nazareth, Israel
+##### :telephone_receiver: +972-55-669-2604  :envelope: veredrec@gmail.com
 
-##### Aiming to make the world a better place through technology and nonstandard education. I offer a combination of strong interpersonal skills and a solid foundation in software development. I bring experience from 10 years as a leader in the Non-Profit and Education sectors in Israel, the U.S., and Italy. Currently a student at Founders and Coders Nazareth, a competitive Full Stack Web Development Bootcamp.
+#### Aiming to make the world a better place through technology and nonstandard education. I offer a combination of strong interpersonal skills and a solid foundation in software development. I bring experience from 10 years as a leader in the Non-Profit and Education sectors in Israel, the U.S., and Italy. Currently a student at Founders and Coders Nazareth, a competitive Full Stack Web Development Bootcamp.
 
 ### Skills and Technologies:
 
