@@ -8,10 +8,8 @@
 ### Skills and Technologies:
 
 <p align="center">
-  <img src="technologies.png" width="600" height="450"/>
+  <img src="skills.png" width="600" height="300"/>
 </p>
-
-<!-- ![skills chart](technologies.png =250x) -->
 
 ### Projects:
 <!-- ###### (All projects were made as a part of my studies at Founders & Coders, in a collaborative work with my peers) -->
