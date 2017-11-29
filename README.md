@@ -4,9 +4,7 @@
 
 ##### :telephone_receiver: +972-55-669-2604 :envelope: veredrec@gmail.com
 
-### Aiming to make the world a better place through technology and nonstandard education.
-
-### I offer a solid foundation in software development and strong interpersonal skills. Currently a Web Developer and Mentor at Founders and Coders Nazareth, a competitive Full Stack Web Development Bootcamp.
+#### Aiming to make the world a better place through technology and nonstandard education.I offer a solid foundation in software development and strong interpersonal skills. Currently a Web Developer and Mentor at Founders and Coders Nazareth, a competitive Full Stack Web Development Bootcamp.
 
 ### Skills and Technologies:
 
